@@ -1,0 +1,24 @@
+header{
+    background-color: rgb(35, 35, 35); 
+}
+.container{
+    padding: 0;
+    margin: auto;
+    display: flex;
+    gap: 2rem;
+    color: rgb(2, 2, 2);
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+}
+.note{
+    padding: 3rem;
+    line-height: 2.5rem;
+
+}
+.me{
+    gap: 10rem;
+    padding-left: rem;
+    padding-top: 3rem;
+}
+

@@ -1,0 +1,16 @@
+.container{
+    max-width: 1140px;
+    margin:  auto;
+}
+
+header{
+   background-color: rgb(35, 35, 35); 
+}
+.card-text{
+    color: rgb(2, 2, 2);
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sarabun', sans-serif;
+}
+
+
